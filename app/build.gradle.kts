@@ -20,8 +20,8 @@ android {
         applicationId = "com.ebyzom.ebyzomparkingfinder"
         minSdk = 24
         targetSdk = 37
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 3
+        versionName = "1.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
